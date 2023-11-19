@@ -65,6 +65,9 @@ To enhance user experience, especially after device reboots or resets, the libra
 
 Refer to the included _basic_ example sketch to explore a comprehensive demonstration of the library's capabilities. This example provides insights into implementing the library in your Arduino projects for effective WiFi management.
 
+## Arduino Library
+
+If you do not know how to add a library to your Arduino project, have a look at [this page](https://support.arduino.cc/hc/en-us/articles/5145457742236-Add-libraries-to-Arduino-IDE) 
 
 ## Thanks
 This project has been adapted from [Guillaume Deflaux's code](https://gitlab.com/gdeflaux/wifi-nina-provisioning). I updated the UI, refactored the code and fixed some bugs related to retrieval and saving of credentials. 
