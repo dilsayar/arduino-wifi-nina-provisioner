@@ -2,7 +2,7 @@
 # Syntax Coloring Map For Wifi Nina Provisioner
 #######################################
 
-WifiNinaProvisioner	KEYWORD1
+WifiNinaProvisioner  KEYWORD1
 begin	KEYWORD2
 get_ssid	KEYWORD2
 get_pass	KEYWORD2
@@ -11,9 +11,9 @@ init	KEYWORD2
 scan_networks	KEYWORD2
 create_ap	KEYWORD2
 start_web_server	KEYWORD2
-connect_to_network	KEYWORD2
+connect_to_network  KEYWORD2
 print_html_networks	KEYWORD2
 print_html_connecting	KEYWORD2
-get_network_credetials	KEYWORD2
+get_network_credentials	KEYWORD2
 print_ap_status	KEYWORD2
 print_network_status	KEYWORD2
