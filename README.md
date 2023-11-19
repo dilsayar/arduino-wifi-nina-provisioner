@@ -3,6 +3,9 @@
 
 The Wifi Nina Provisioner library offers a streamlined and user-friendly process for setting up and managing WiFi connections on Arduino devices compatible with Wifi Nina. This library is ideal for projects requiring remote WiFi network configuration, particularly in IoT applications.
 
+## Easily Configure Your Wifi Credentials
+Instead of hardcoding your Wifi credentials in your code, you can use this library to pass network credentials to your Arduino Nano RP2040 or other similar devices. 
+
 ## Standard Provisioning Workflow
 
 This library simplifies the WiFi setup process into a few easy steps:
