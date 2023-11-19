@@ -63,3 +63,5 @@ To enhance user experience, especially after device reboots or resets, the libra
 Refer to the included _basic_ example sketch to explore a comprehensive demonstration of the library's capabilities. This example provides insights into implementing the library in your Arduino projects for effective WiFi management.
 
 
+## Thanks
+This project has been adapted from [Guillaume Deflaux code ]([https://www.blynk.io](https://gitlab.com/gdeflaux/wifi-nina-provisioning)https://gitlab.com/gdeflaux/wifi-nina-provisioning). I updated the UI, refactored the code and fixed some bugs related to retrieval and saving of credentials. 
