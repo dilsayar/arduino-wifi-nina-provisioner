@@ -1,3 +1,7 @@
+#######################################
+# Syntax Coloring Map For Wifi Nina Provisioner
+#######################################
+
 WifiNinaProvisioner	KEYWORD1
 begin	KEYWORD2
 get_ssid	KEYWORD2
