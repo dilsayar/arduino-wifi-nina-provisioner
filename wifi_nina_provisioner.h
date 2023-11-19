@@ -1,3 +1,11 @@
+/*
+  wifi_nina_provisioner.h - Library for passing Wifi credentials to Arduino Nano RP2040 and other similar devices
+  Created by Hüseyin Demirtaş, November 19, 2023.
+  Personel website: https://huseyindemirtas.net/
+  Inspired by Guillaume Deflaux's code at https://gitlab.com/gdeflaux/wifi-nina-provisioning
+*/
+
+
 #ifndef _WIFI_NINA_PROVISIONER_
 #define _WIFI_NINA_PROVISIONER_
 
